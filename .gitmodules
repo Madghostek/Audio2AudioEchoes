@@ -1,9 +1,12 @@
 [submodule "dance-diffusion"]
 	path = dance-diffusion
 	url = https://github.com/Madghostek/dance-diffusion.git
+	branch="master"
 [submodule "RAVE"]
 	path = RAVE
 	url = https://github.com/Madghostek/RAVE.git
+    branch="master"
 [submodule "ddsp"]
 	path = ddsp
 	url = https://github.com/Madghostek/ddsp.git
+    branch="master"
