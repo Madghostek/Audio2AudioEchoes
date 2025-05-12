@@ -1,9 +1,9 @@
 [submodule "dance-diffusion"]
 	path = dance-diffusion
-	url = https://github.com/ctralie/dance-diffusion.git
+	url = https://github.com/Madghostek/dance-diffusion.git
 [submodule "RAVE"]
 	path = RAVE
-	url = https://github.com/ctralie/RAVE.git
+	url = https://github.com/Madghostek/RAVE.git
 [submodule "ddsp"]
 	path = ddsp
-	url = https://github.com/ctralie/ddsp.git
+	url = https://github.com/Madghostek/ddsp.git
